@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bb80a7a-9693-4674-a1b9-1b789f90ba6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter4/CacheDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/ConditionUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Shutdown.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eWRpczh3SiAGG1UVoKibJRsnP2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.CacheDemo">
+    <configuration name="CacheDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.CacheDemo" />
+      <module name="concurrency-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interrupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Interrupted" />
+      <module name="concurrency-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shutdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Shutdown" />
+      <module name="concurrency-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Test" />
+      <module name="concurrency-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPriorityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.ThreadPriorityTest" />
+      <module name="concurrency-practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CacheDemo" />
+        <item itemvalue="Application.Shutdown" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Interrupted" />
+        <item itemvalue="Application.ThreadPriorityTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bb80a7a-9693-4674-a1b9-1b789f90ba6a" name="Default Changelist" comment="" />
+      <created>1594435546682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594435546682</updated>
+      <workItem from="1594435551062" duration="5836000" />
+      <workItem from="1595238229449" duration="2325000" />
+      <workItem from="1595319863556" duration="1263000" />
+      <workItem from="1595332309822" duration="4252000" />
+      <workItem from="1596429213212" duration="2254000" />
+      <workItem from="1596706546843" duration="2012000" />
+      <workItem from="1597217280272" duration="2496000" />
+    </task>
+    <task id="LOCAL-00001" summary="第三章：Java内存模型">
+      <created>1594453065571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594453065572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="线程的中断等内容">
+      <created>1595239557665</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595239557665</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第三章：Java内存模型" />
+    <MESSAGE value="线程的中断等内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="线程的中断等内容" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="-830" key="#com.intellij.ide.util.MemberChooser" timestamp="1595320007107">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="662" y="-830" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1595320007107" />
+    <state x="662" y="-812" key="#com.intellij.ide.util.MemberChooser/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1594457564972" />
+    <state x="662" y="-812" key="#com.intellij.ide.util.MemberChooser/41.23.1239.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595238351028" />
+    <state x="662" y="-812" key="#com.intellij.ide.util.MemberChooser/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239222929" />
+    <state x="429" y="-947" key="CommitChangelistDialog2" timestamp="1597222919964">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="429" y="-947" key="CommitChangelistDialog2/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222919964" />
+    <state x="429" y="-927" key="CommitChangelistDialog2/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1594453065155" />
+    <state x="429" y="-927" key="CommitChangelistDialog2/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239557321" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom" timestamp="1597222895634">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222895634" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/38.23.1242.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595493644801" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1594605781239" />
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom/40.23.1240.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595297910047" />
+    <state width="1878" height="357" key="GridCell.Tab.0.bottom/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239995786" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center" timestamp="1597222895633">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222895633" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/38.23.1242.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595493644798" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1594605781238" />
+    <state width="1878" height="357" key="GridCell.Tab.0.center/40.23.1240.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595297910043" />
+    <state width="1878" height="357" key="GridCell.Tab.0.center/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239995783" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left" timestamp="1597222895632">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222895632" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/38.23.1242.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595493644796" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1594605781237" />
+    <state width="1878" height="357" key="GridCell.Tab.0.left/40.23.1240.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595297910042" />
+    <state width="1878" height="357" key="GridCell.Tab.0.left/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239995781" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right" timestamp="1597222895634">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222895634" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/38.23.1242.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595493644800" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1594605781238" />
+    <state width="1878" height="357" key="GridCell.Tab.0.right/40.23.1240.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595297910045" />
+    <state width="1878" height="357" key="GridCell.Tab.0.right/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239995784" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1595297910052">
+      <screen x="-111" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/40.23.1240.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595297910052" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239995794" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1595297910049">
+      <screen x="-111" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.center/40.23.1240.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595297910049" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239995790" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1595297910048">
+      <screen x="-111" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.left/40.23.1240.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595297910048" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239995788" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1595297910051">
+      <screen x="-111" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="357" key="GridCell.Tab.1.right/40.23.1240.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595297910051" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239995792" />
+    <state x="358" y="-901" key="SettingsEditor" timestamp="1597222851465">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="358" y="-901" key="SettingsEditor/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222851465" />
+    <state x="579" y="-807" width="540" height="536" key="StructurePopup" timestamp="1597222731284">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="579" y="-807" width="540" height="536" key="StructurePopup/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222731284" />
+    <state x="579" y="-807" width="540" height="536" key="StructurePopup/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1596706558415" />
+    <state x="579" y="-790" width="540" height="524" key="StructurePopup/41.23.1239.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595238792992" />
+    <state x="449" y="-806" key="Vcs.Push.Dialog.v2" timestamp="1597222952077">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="449" y="-806" key="Vcs.Push.Dialog.v2/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222952077" />
+    <state x="449" y="-789" key="Vcs.Push.Dialog.v2/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1594453067281" />
+    <state x="449" y="-789" key="Vcs.Push.Dialog.v2/43.23.1237.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1595239559293" />
+    <state x="529" y="-783" width="639" height="486" key="find.popup" timestamp="1597222760724">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="529" y="-783" width="639" height="486" key="find.popup/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222760724" />
+    <state x="514" y="-840" width="670" height="691" key="search.everywhere.popup" timestamp="1597222163111">
+      <screen x="-111" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="514" y="-840" width="670" height="691" key="search.everywhere.popup/0.0.1280.800/-111.-1080.1920.1080@-111.-1080.1920.1080" timestamp="1597222163111" />
+    <state x="514" y="-822" width="670" height="676" key="search.everywhere.popup/39.23.1241.777/-111.-1057.1920.1057@-111.-1057.1920.1057" timestamp="1594457666424" />
+  </component>
+</project>
