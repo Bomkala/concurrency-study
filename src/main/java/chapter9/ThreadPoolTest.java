@@ -16,17 +16,41 @@ public class ThreadPoolTest {
         ThreadPoolExecutor poolExecutor = new ThreadPoolExecutor(10, 30, 1000, TimeUnit.SECONDS,
                 new LinkedBlockingQueue<>(), new ThreadFactoryBuilder().setNameFormat("poolExecutor-%d").build());
 
-        System.out.println("【预热前】可用线程数为:" + poolExecutor.getPoolSize());
+        System.out.println("----------预热前----------");
+        printThreadPoolInfo(poolExecutor);
+
+        //预热线程池，并打印线程池情况
         poolExecutor.prestartAllCoreThreads();
-        System.out.println("【预热后】可用线程数为:" + poolExecutor.getPoolSize());
+        System.out.println("----------预热后----------");
+        printThreadPoolInfo(poolExecutor);
 
+        //执行任务后，打印线程池情况
+        for (int i = 0; i < 100; i++) {
+            poolExecutor.execute(() -> {
+                String str = "hello world";
+                try {
+                    TimeUnit.SECONDS.sleep(5);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            });
+        }
+        System.out.println("----------执行5个任务后----------");
+        printThreadPoolInfo(poolExecutor);
+    }
 
-        poolExecutor.execute(()->{
-            System.out.println("this is a hehe");
-        });
+    private static void printThreadPoolInfo(ThreadPoolExecutor poolExecutor) {
+        long taskCount = poolExecutor.getTaskCount();
+        long completedTaskCount = poolExecutor.getCompletedTaskCount();
+        int largestPoolSize = poolExecutor.getLargestPoolSize();
+        int poolSize = poolExecutor.getPoolSize();
+        int activeCount = poolExecutor.getActiveCount();
 
-        poolExecutor.getActiveCount();
-
+        System.out.println("taskCount=" + taskCount);
+        System.out.println("completedTaskCount=" + completedTaskCount);
+        System.out.println("largestPoolSize=" + largestPoolSize);
+        System.out.println("poolSize=" + poolSize);
+        System.out.println("activeCount=" + activeCount);
     }
 
 }
